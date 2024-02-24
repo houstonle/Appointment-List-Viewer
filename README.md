@@ -81,7 +81,7 @@ Follow these steps to set up and use the project on your local machine.
 
 ## Usage
 
-![Preview of frontend displaying appointments](appointment_lists.png)
+![Preview of frontend displaying appointments](appointments_ui.png)
 
 Click on the calender icon by start date and end date to set up filters. Pressing the `Filter Appointments` button will filter according to the dates you picked.
 To reset filters press the `Reset Filters` button. The appointment list will reset and now display all appointments.
